@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #a7a9aa;
+    background: #fff;
     font-family: 'lato';
     font-size: 16px;
 }
@@ -40,7 +40,7 @@ header .menu a{
     display: inline-block;
     padding:10px 0;
     margin:0 15px;
-    color:rgb(69, 228, 37);
+    color:#fff;
     text-decoration: none;
 }
 header .contenido-header{
@@ -54,7 +54,7 @@ header .contenido-header{
 header .contenido-header .titulo-header{
     font-size: 120px;
     text-align: center;
-    color: rgb(69, 228, 37);
+    color: #fff;
     text-align: center;
 }
 
@@ -62,13 +62,13 @@ header .contenido-header .linea-header{
     width: 700px;
     margin: auto;
     height:2px;
-    background: #fa15eeb9;
+    background: #15a4fa;
     margin-bottom:30px;
     text-align: center;
 }
 
 header .contenido-header .texto-header{
-    color:rgb(69, 228, 37);
+    color:#fff;
     font-weight: 300;
     margin-bottom:30px;
     font-size:20px;
@@ -78,25 +78,25 @@ header .contenido-header .texto-header{
 header .contenido-header .action-header{
     display: inline-block;
     margin: auto;
-    color: rgb(69, 228, 37);
+    color: #fff;
     text-decoration: none;
-    border:1px solid #fa15eeb9;
+    border:1px solid #15a4fa;
     padding: 10px 20px;
     border-radius: 5px;
 }
 
 header .contenido-header .action-header:hover{
-    background: #fa15eeb9;
-    color: rgb(69, 228, 37);
+    background: #15a4fa;
+    color: #fff;
 }
 
 main .quienes{
-    background: #a7a9aa;
+    background: #f0f3f5;
     padding:60px 0;
 }
 
 main .quienes .quienes-titulo{
-    color:rgb(54, 161, 32);
+    color:#000;
     font-size: 25px;
     text-align: center;
     margin-bottom:20px;
@@ -104,7 +104,7 @@ main .quienes .quienes-titulo{
 
 main .quienes .quienes-parrafo{
     text-align: center;
-    color:rgb(54, 129, 39);
+    color:#999999;
     font-weight: 600;
 }
 
@@ -127,19 +127,19 @@ main .quehacemos .contenido-cajas .tarjeta .contenido-tarjeta .titulo-tarjeta{
 }
 
 main .portafolio{
-    background: #a7a9aa;
+    background: #f0f3f5;
     padding: 60px 0;
 }
 
 main .portafolio .portafolio-textos{
     text-align: center;
     margin-bottom: 60px;
-    color:rgb(69, 228, 37);
+    color:#2d3950;
     font-size: 20px;
 }
 
 main .portafolio .portafolio-textos p{
-    color: rgb(54, 161, 32);
+    color: #909090;
     font-size: 15px;
     margin: 20px 0 0 0;
 }
@@ -174,14 +174,14 @@ footer .contacto{
 
 footer .footer-textos{
     text-align: center;
-    color: rgb(69, 228, 37);
+    color: #fff;
     font-size:25px;
 }
 
 footer .footer-textos p{
     font-size: 14px;
     margin:15px 0 30px 0;
-    color:rgb(69, 228, 37);
+    color:#999999;
 
 }
 form{
@@ -198,8 +198,8 @@ footer .contacto textarea{
     padding: 15px 20px;
     background: none;
     border-radius: 5px;
-    color:rgb(69, 228, 37);
-    border: 2px solid rgb(69, 228, 37);
+    color:rgb(204, 204, 204);
+    border: 2px solid rgba(204, 204, 204, 0.383);
     font-family: 'lato';
     font-weight: 300;
 }
@@ -221,16 +221,16 @@ footer .contacto  input[type="submit"]{
     margin:100px 0;
     padding: 10px 15px;
     background: none;
-    border:1px solid #fa15eeb9;
+    border:1px solid #15a4fa;
     border-radius: 5px;
-    color:rgb(69, 228, 37);
+    color:#fff;
     cursor: pointer;
     float:right;
 
 }
 footer .contacto input[type="submit"]:hover{
     background: #15a4fa;
-    color: rgb(69, 228, 37);
+    color: #fff;
 }
 
 .footer{
